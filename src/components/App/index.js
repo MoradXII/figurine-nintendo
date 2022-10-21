@@ -29,7 +29,7 @@ function App() {
         onSearchChange={handleGameChange}
         game={searchInput}
        />
-       <div className="flex flex-row justify-around p-4 font-press-start">
+       <div className="flex flex-row justify-between p-4 mt-8 font-press-start">
         <GameList
           gameList={searchedGame}
           onSelectGame={handleSelectGame}

@@ -2,9 +2,9 @@
 
 ## Description
 
-Application de recherche de figurine nintendo
+Application sympa de recherche de figurine à travers les jeux nintendo
 
 ## Techno
 
-React/tailwind
+React/TailwindCSS
 
